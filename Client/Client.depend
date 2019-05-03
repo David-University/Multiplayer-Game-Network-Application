@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538270328 source:c:\users\david\documents\university\2018\semmester 2\acs\assignment 2\basic example\client\main.c
+	<stdio.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<sys/time.h>
+
+1538381343 source:c:\users\david\documents\university\2018\semmester 2\acs\assignment 2\multiplayer game\client\main.c
+	<stdio.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<sys/time.h>
+

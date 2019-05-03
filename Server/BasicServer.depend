@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1538302189 source:c:\users\david\documents\university\2018\semmester 2\acs\assignment 2\basic example\server\main.c
+	<unistd.h>
+	<stdio.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+	<errno.h>
+	<sys/wait.h>
+	<signal.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<sys/select.h>
+
+1539492495 source:c:\users\david\documents\university\2018\semmester 2\acs\assignment 2\multiplayer game\server\main.c
+	<unistd.h>
+	<stdio.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+	<errno.h>
+	<sys/wait.h>
+	<signal.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<sys/select.h>
+
